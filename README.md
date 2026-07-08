@@ -38,8 +38,6 @@ I'm a passionate Software Engineer from Pakistan who enjoys building modern web 
 - GitHub
 - Swagger
 
-  ---
-  
 ##  Featured Projects
 
 ###  Hospital Management System
@@ -54,7 +52,6 @@ A blockchain-based exam result management system using ASP.NET Core MVC, SQL Ser
 ###  Medical Store Management System
 A Web based application developed using ASp.Net Core MVC  and SQL Server for managing medicines, sales, suppliers, and inventory.
 
----
 
 ##  Currently Learning
 
