@@ -37,6 +37,8 @@ I'm a passionate Software Engineer from Pakistan who enjoys building modern web 
 - Git
 - GitHub
 - Swagger
+
+  ---
   
 ##  Featured Projects
 
@@ -52,6 +54,7 @@ A blockchain-based exam result management system using ASP.NET Core MVC, SQL Ser
 ###  Medical Store Management System
 A Web based application developed using ASp.Net Core MVC  and SQL Server for managing medicines, sales, suppliers, and inventory.
 
+---
 
 ##  Currently Learning
 
@@ -64,8 +67,8 @@ A Web based application developed using ASp.Net Core MVC  and SQL Server for man
 
 ##  Contact
 
-- LinkedIn: *(Add your LinkedIn profile here)*
-- Email: *(Add your professional email)*
+- LinkedIn: *(https://www.linkedin.com/in/muhammad-hassan-khan-6932a8288/)*
+- Email: *(hassankhan92977@gmail.com)*
 
 
 
